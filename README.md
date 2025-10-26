@@ -21,8 +21,3 @@ Urban waste management is often inefficient due to lack of coordination between 
 - **Backend:** Firebase (Realtime Database / Firestore)
 - **Mapping & Tracking:** Google Maps API
 - **Other Tools:** GitHub for version control, Figma for UI design
-
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone <your-repo-url>
